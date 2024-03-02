@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## To run the api:
 ```
-uvicorn retrain-model:app --reload
+uvicorn cpa:app --reload
 ```
 Follow the outout from the terminal after that.
 
